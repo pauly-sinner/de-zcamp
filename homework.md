@@ -21,7 +21,7 @@ Do the same for "docker run".
 Which tag has the following text? - *Automatically remove the container when it exits* 
 
 - `--delete`
-- `--rc`
+- `--rc` ++++
 - `--rmc`
 - `--rm`
 
@@ -33,7 +33,7 @@ Now check the python modules that are installed ( use ```pip list``` ).
 
 What is version of the package *wheel* ?
 
-- 0.42.0
+- 0.42.0 ++++
 - 1.0.0
 - 23.0.1
 - 58.1.0
@@ -62,7 +62,7 @@ Tip: started and finished on 2019-09-18.
 Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in the format timestamp (date and hour+min+sec) and not in date.
 
 - 15767
-- 15612
+- 15612 +++
 - 15859
 - 89009
 
@@ -73,7 +73,7 @@ Use the pick up time for your calculations.
 
 - 2019-09-18
 - 2019-09-16
-- 2019-09-26
+- 2019-09-26 +++
 - 2019-09-21
 
 
@@ -83,7 +83,7 @@ Consider lpep_pickup_datetime in '2019-09-18' and ignoring Borough has Unknown
 
 Which were the 3 pick up Boroughs that had a sum of total_amount superior to 50000?
  
-- "Brooklyn" "Manhattan" "Queens"
+- "Brooklyn" "Manhattan" "Queens" ++++
 - "Bronx" "Brooklyn" "Manhattan"
 - "Bronx" "Manhattan" "Queens" 
 - "Brooklyn" "Queens" "Staten Island"
@@ -98,7 +98,7 @@ Note: it's not a typo, it's `tip` , not `trip`
 
 - Central Park
 - Jamaica
-- JFK Airport
+- JFK Airport +++
 - Long Island City/Queens Plaza
 
 
